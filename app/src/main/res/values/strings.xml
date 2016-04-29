@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">CodingChallenge</string>
+    <string name="edit_message">Enter a message</string>
+    <string name="button_send">Send</string>
+    <string name="find_beer">Find Beer!</string>
+    <string name="brands"></string>
+    <string-array name="string_array">
+        <item>light</item>
+        <item>dark</item>
+        <item>amber</item>
+        <item>brown</item>
+    </string-array>
+</resources>
